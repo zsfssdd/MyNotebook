@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="clorPrimary_p">#9C27B0</color>
+    <color name="colorPrimary_Red">#F44336</color>
+    <color name="colorPrimary_Pink">#E91E63</color>
+    <color name="colorPrimary_Yellow">#FFC107</color>
+
+    <color name="colorPrimaryDark_Red">#D32F2F</color>
+    <color name="colorPrimaryDark_Pink">#C2185B</color>
+    <color name="colorPrimaryDark_Yellow">#FFA000</color>
+
+    <color name="colorAccent_Red">#FF5252</color>
+    <color name="colorAccent_Pink">#FF4081</color>
+    <color name="colorAccent_Yellow">#FFC107</color>
+
+    <color name="navigationBarColor">#9C27B0</color>
+    <color name="navigationBarColor_Red">#F44336</color>
+    <color name="navigationBarColor_Pink">#E91E63</color>
+    <color name="navigationBarColor_Yellow">#FFC107</color>
+
+    <color name="textColor">#ffffff</color>
+
+    <color name="black">#1d1d1d</color>
+    <color name="whiteLow">#f0f0f0</color>
+
+    <color name="translucent">#7d000000</color>
+    <color name="agree">#6cfc66</color>
+</resources>

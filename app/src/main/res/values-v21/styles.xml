@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="NoteActivityTeme" parent="AppTheme">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <style name="Passward" parent="AppTheme">
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="AppTheme_Red" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary_Red</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Red</item>
+        <item name="colorAccent">@color/colorAccent_Red</item>
+    </style>
+
+    <style name="AppTheme_Pink" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary_Pink</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Pink</item>
+        <item name="colorAccent">@color/colorAccent_Pink</item>
+    </style>
+
+    <style name="AppTheme_Yellow" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary_Yellow</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark_Yellow</item>
+        <item name="colorAccent">@color/colorAccent_Yellow</item>
+    </style>
+</resources>

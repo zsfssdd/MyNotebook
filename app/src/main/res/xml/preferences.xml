@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout="@layout/preference_item"
+    android:title="@string/title_activity_setting">
+
+    <PreferenceCategory
+        android:layout="@layout/preference_category_widget"
+        android:title="@string/settings_password">
+
+        <CheckBoxPreference
+            android:key="@string/save_password_mode"
+            android:layout="@layout/preference_item"
+            android:summaryOn="@string/his_password"
+            android:summaryOff="@string/his_not_password"
+            android:title="@string/setting_password"/>
+
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:layout="@layout/preference_category_widget"
+        android:title="@string/totxt">
+
+        <Preference
+            android:key="totxt"
+            android:title="@string/totxt1"/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
